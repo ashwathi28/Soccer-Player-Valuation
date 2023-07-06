@@ -1,4 +1,4 @@
-# Soccer-Player-Valuation-An-Analysis-of-Player-Prices-in-the-Transfer-Market
+# Soccer-Player-Valuation
 
 ## Abstract:
 
